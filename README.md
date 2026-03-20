@@ -1,24 +1,15 @@
 # IconForge
 
-Windows 11 desktop app to change shortcut icons, hide shortcut arrows, and hide icon labels — all from a single, portable `.exe`.
+Windows 11 desktop app to change shortcut icons, hide shortcut arrows, and hide icon labels — all from a single, portable ".exe".
 
 ---
+Features
 
-### Features
-
-- **Drag-and-drop icon changer** — drop `.lnk` shortcuts and a new image, hit Apply
-- **Batch support** — change multiple shortcut icons at once
-- **Hide shortcut arrows** globally (registry-based, reversible)
-- **Hide icon text labels** with invisible Unicode names
-- **Restore all originals** — every change is tracked and fully reversible
-- **Dark / Light / System theme** powered by customtkinter
-- **Single `.exe`** — no install needed, runs from anywhere
-
-### First-time SmartScreen Warning
-
-Windows may show a "Windows protected your PC" dialog the first time you run the `.exe`.
-Click **More info → Run anyway**. This warning disappears automatically after approximately 20 downloads.
-
+-icon changer — upload an image any apply it to a desktop icon
+- Batch support — change multiple shortcut icons at once
+- Hide shortcut arrows globally (registry-based, reversible)
+- Hide icon text labels with invisible Unicode names
+- Restore all originals — every change is tracked and fully reversible
 
 
 First Github repo, this is a work in progress!
