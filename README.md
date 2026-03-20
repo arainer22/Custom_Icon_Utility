@@ -1,4 +1,4 @@
-# IconForge
+Custom Icon Utility
 
 Windows 11 desktop app to change shortcut icons, hide shortcut arrows, and hide icon labels — all from a single, portable ".exe".
 
